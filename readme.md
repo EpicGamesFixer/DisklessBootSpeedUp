@@ -22,7 +22,7 @@ It contains 4 points that were interesting to me:
 
 3. An interesting thing that helps to automatically activate Windows 10/11 upon boot. If we take into account that the same image is loaded on different computers and that there would be no messages like this
 
-4. The cool thing here is that this is not a KMS with a pirated software, but simply a utility that activates the keys when loaded. I took from here https://ygoo.ru/how-to-almost-legally-activate-windows-10-with-a-legal-key-from-the-official-microsoft-website, the key and activation server and entered here
+4. The cool thing here is that this is not a KMS with a pirated software, but simply a utility that activates the keys when loaded. I took from here <url>, the key and activation server and entered here
 
 4. The most interesting thing for me is why I even pay attention to it, this is, of course, the “Fix 100% disk” item, there is only one option that I allowed
 5. If you look closely, when you click the checkmark at the top, a list appears in the field. You can enter something of your own there. This utility instantly kills processes. What works even before the login screen and after. This was my tablet to check for updates only once a month and sleep peacefully knowing that this utility does the entire disk unloading process for me.
